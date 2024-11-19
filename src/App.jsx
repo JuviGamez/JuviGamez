@@ -35,7 +35,7 @@ function Home() {
 
 function App() {
   return (
-    <Router basename="/JuviGamez">
+    <Router basename="JuviGamez">
       <div id="app">
         <header>
           <nav>
