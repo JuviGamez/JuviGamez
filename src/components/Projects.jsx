@@ -6,7 +6,7 @@ const projects = [
     description: "This is a script that allows you to press CTRL + F11 to fullscreen a webpage, because when F11 is pressed on Arc Browser, it just hides the taskbar",
     tech: ["Javascript"],
     link: "https://github.com/JuviGamez/Arc_Browser_F11_Script/",
-    image: "/gifs/project1.gif" // Create a demo GIF showing the fullscreen toggle in action
+    image: "/JuviGamez/gifs/project1.gif" // Create a demo GIF showing the fullscreen toggle in action
   },
   {
     title: "Experiments for Better Discord",
