@@ -21,6 +21,10 @@
 
 ###
 
+<h3 align="left">LOTS OF NEW PROJECTS COMING OUT SOON INCLUDING | QuantumTube: A privacy based youtube frontend, RefinePedia: Wikipedia, but way more modern | and many more</h3>
+
+###
+
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
